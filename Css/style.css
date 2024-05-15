@@ -1,0 +1,49 @@
+@import url("Component/banner.css");
+@import url("Component/products.css");
+@import url("Component/presentation.css");
+
+body {
+    font-family: Avenir, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    line-height: 1.6;
+    background-color: #f5f5f5;
+    margin-bottom: 50px;
+}
+
+header {
+    background-color: #023059;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+ 
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Avenir, Arial, sans-serif;
+}
+
+main {
+    padding: 20px;
+}
+
+
+footer {
+    background-color: #ff69b4;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}

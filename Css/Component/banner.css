@@ -1,0 +1,23 @@
+.banner {
+    background-color: hotpink; 
+    color: black; 
+    text-align: center;
+    padding: 10px 0; 
+    font-family: Avenir, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.banner-links {
+    float: right;
+    font-size: 14px;
+}
+
+.banner-links a {
+    color: #ffffff;
+    margin-left: 20px;
+    text-decoration: none;
+    font-family: Avenir, Arial, sans-serif;
+}
+
+
